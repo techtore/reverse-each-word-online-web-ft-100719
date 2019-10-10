@@ -9,7 +9,7 @@ def reverse_each_word(words)
  new_array.join(" ")
 end
 
-def reverse_each_words(words)
+def reverse_each_word(words)
   array = words.split(" ")
   new_array = []
   
